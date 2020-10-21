@@ -1,2 +1,2 @@
-# sortingAlgorithm
+# SortingAlgorithm
 Common Sorting Algorithms 
